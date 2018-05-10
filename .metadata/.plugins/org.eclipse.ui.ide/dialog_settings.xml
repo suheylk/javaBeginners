@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/skeskin/Desktop/yedek_1/Courses/Java Comp/HW s/Final/YalcinCakmak_JavaCompFinal"/>
+		<item value="/Users/skeskin/Desktop/Homework_5 2"/>
+		<item value="/Users/skeskin/Desktop/Homework_5"/>
+		<item value="/Users/skeskin/Desktop/Homework_3"/>
+		<item value="/Users/skeskin/Desktop/homework"/>
+		<item value="/Users/skeskin/Desktop/Java_Multi"/>
+		<item value="/Users/skeskin/Desktop/Courses/Java/resources/demo codes/Lecture1_Demo_Code"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="484" key="DIALOG_WIDTH"/>
+		<item value="true" key="BUILD_ALL"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
+		<item value="423" key="DIALOG_HEIGHT"/>
+		<item value="398" key="DIALOG_X_ORIGIN"/>
+		<item value="164" key="DIALOG_Y_ORIGIN"/>
+		<item value="true" key="BUILD_NOW"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+	</section>
+</section>
